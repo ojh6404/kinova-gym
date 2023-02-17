@@ -1,5 +1,5 @@
 # kinova-gym
 
 ```bash
-pip install kinova-gym
+pip install -e .
 ```
